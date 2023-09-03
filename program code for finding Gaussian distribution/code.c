@@ -1,4 +1,4 @@
-#include<stdio.h>
+iv#include<stdio.h>
 #include<math.h>
  
 float f(float x,float u, float v){
@@ -25,7 +25,7 @@ intervals:
   scanf("%d",&n);
   
   printf("\n");
-  printf("For postive infinty limit Enter :- 88\nFor postive infinty limit Enter :- -88\n");
+  printf("For postive infinty limit Enter :- 88\nFor negative infinty limit Enter :- -88\n");
   
   again_initial_limit:
   printf("\nEnter the initial limit: ");
